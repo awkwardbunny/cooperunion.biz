@@ -9,6 +9,9 @@ As of now, most of the files in this project are still hosted on cu.biz archive 
 However, there are efforts to download the resources and fix this links into this repo.
 **This page is currently missing some of the images and fonts.**
 
+The exact snapshot I used was the [snapshot from May 17, 2014](https://web.archive.org/web/20140517063518/http://cooperunion.biz/).
+I've also found [this trick](https://en.wikipedia.org/wiki/Help:Using_the_Wayback_Machine#Specific_archive_copy) to be useful to see the original, unmodified contents.
+
 Any contributions will be welcomed, as long as it is reasonable and within the scope of this... idk.
 Contributions can be made via [pull requests](https://help.github.com/articles/about-pull-requests/) and will be merged upon approval.
 Suggestions can be sent either in person or submitting it on the issues page.
