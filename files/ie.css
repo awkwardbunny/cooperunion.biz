@@ -1,0 +1,10 @@
+html.ie7 article.all-news dd {
+	float: none;
+	clear: none;
+}
+html.ie7 #history .content {
+	overflow: hidden;
+}
+html.ie7 #history .images {
+	bottom: -20px;
+}

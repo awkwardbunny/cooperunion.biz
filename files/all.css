@@ -1,0 +1,190 @@
+#wrapper header .form-item {
+	margin:0px;
+	padding:0px;
+}
+
+body.page-admin #main article {
+	padding:20px;
+}
+
+.page-admin #main article .block {
+	width:auto;
+}
+
+article aside .quad li.active a {
+	color: #ed1c24;
+}
+
+article.contact div.intro {
+	margin-bottom: 35px;
+}
+
+.students table.calendar {
+	width: 760px;
+	border-top: 3px solid #e4e3dd;
+}
+
+.students table.calendar td {
+	width: 33%;
+	padding: 10px 10px 10px 0;
+	border-bottom: 1px solid #e4e3dd;
+}
+
+article .body div.intro p {
+    font-size: 15px;
+}
+
+.no-image {
+	background:#eeeeee;
+}
+
+article .block li:nth-child(2n+1) {
+	clear:both;
+}
+
+article .list2 li:nth-child(2n+1) {
+	clear:both;
+}
+
+#mainnav {
+	z-index:99;
+}
+
+article .body .add-calendar {
+	z-index:2;
+}
+
+article section.body .photos {
+	margin-bottom:20px;
+}
+
+article.events .group-list li:nth-child(3n+1) {
+	clear:both;
+}
+
+#dl .content h3 {
+	color: #2e2e2e;
+}
+
+#dl .invert h3 {
+	color: #fff;
+}
+
+#main {
+	padding-bottom:48px;
+}
+
+#home #main {
+	background: rgba(255, 255, 255, .8);	
+}
+
+#home #belt {
+	background:none;
+}
+
+#upcoming-events .text {
+	padding: 0px 20px;
+	width: 500px;
+}
+
+#upcoming-events .text h2 {
+	width: auto;
+}
+
+#upcoming-events .text h3 {
+	line-height: normal;
+	width: auto;
+}
+
+.photo-slider .prev-arrow {
+	display:block;
+}
+
+.photo-slider .next-arrow {
+	display:block;
+}
+
+#mainnav nav.links {
+	line-height:normal;
+	margin-bottom:0px;
+}
+
+#mainnav nav.links li {
+	margin-bottom:15px;
+}
+
+div.sharethis {
+	margin:0px 0px 20px 0px;
+}
+
+article.events .items .day:first-child {
+	border:none;
+}
+
+#belt .item h2 {
+	height:32px;
+	margin-bottom:10px;
+}
+
+#belt .item time {
+	margin-top:10px;
+}
+
+#belt .item h3 {
+	margin-top:10px;
+}
+
+#container2 {
+	background:url(/web/20140519001440im_/http://cooperunion.biz/images/container.png) right 0px repeat-y;
+}
+
+#home #container2 {
+	background:none;
+}
+
+#galleries .index .image:hover {
+	background-image:url(/web/20140519001440im_/http://cooperunion.biz/images/gallery/image_bg_white.png);
+}
+
+#galleries .slideshow .image:hover {
+	background-image:url(/web/20140519001440im_/http://cooperunion.biz/images/gallery/image_bg_white.png);
+}
+
+.people .letters {
+	overflow:hidden;
+}
+
+.people .letters ul li {
+	line-height:25px;
+}
+
+.people .letters form {
+	display:inline;
+	float:right;
+	margin:0px 20px 0px 0px;
+}
+
+.people .letters form input {
+	background:#ebebe9;
+	border:none;
+	display:inline;
+	float:left;
+	font-family:'TradeGothicNextW01-Bold 693229',arial,helvetica,verdana,sans-serif;
+	height:25px;
+	padding:0px 3px;
+	width:180px;
+}
+
+.people .letters form button {
+	background:url(/web/20140519001440im_/http://cooperunion.biz/images/buttons/submit.png);
+	border:none;
+	cursor:pointer;
+	height:25px;
+	overflow:hidden;
+	text-indent:-999999px;
+	width:25px;
+}
+
+section.body .field-field-external {
+	margin:12px 0px;
+}
