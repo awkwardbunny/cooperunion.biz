@@ -48,41 +48,41 @@ TOC:
 */
 @font-face {
     font-family: 'FoundryGridnikLight';
-    src: url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-light-webfont.eot');
-    src: url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-light-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-light-webfont.woff') format('woff'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-light-webfont.ttf') format('truetype'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-light-webfont.svg#FoundryGridnikLight') format('svg');
+    src: url('./Foundry Gridnik W03 Light/Foundry Gridnik W03 Light.eot');
+    src: url('./Foundry Gridnik W03 Light/Foundry Gridnik W03 Light.eot#iefix') format('embedded-opentype'),
+         url('./Foundry Gridnik W03 Light/Foundry Gridnik W03 Light.woff') format('woff'),
+         url('./Foundry Gridnik W03 Light/Foundry Gridnik W03 Light.ttf') format('truetype'),
+         url('./Foundry Gridnik W03 Light/Foundry Gridnik W03 Light.svg#FoundryGridnikLight') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'FoundryGridnikMedium';
-    src: url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-medium-webfont.eot');
-    src: url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-medium-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-medium-webfont.woff') format('woff'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-medium-webfont.ttf') format('truetype'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-medium-webfont.svg#FoundryGridnikMedium') format('svg');
+    src: url('./Foundry Gridnik W03 Medium/Foundry Gridnik W03 Medium.eot');
+    src: url('./Foundry Gridnik W03 Medium/Foundry Gridnik W03 Medium.eot#iefix') format('embedded-opentype'),
+         url('./Foundry Gridnik W03 Medium/Foundry Gridnik W03 Medium.woff') format('woff'),
+         url('./Foundry Gridnik W03 Medium/Foundry Gridnik W03 Medium.ttf') format('truetype'),
+         url('./Foundry Gridnik W03 Medium/Foundry Gridnik W03 Medium.svg#FoundryGridnikMedium') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'FoundryGridnikRegular';
-    src: url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-regular-webfont.eot');
-    src: url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-regular-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-regular-webfont.woff') format('woff'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-regular-webfont.ttf') format('truetype'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooper.edu/sites/all/themes/cooper/assets/css/fonts/foundrygridnik-regular-webfont.svg#FoundryGridnikRegular') format('svg');
+    src: url('./Foundry Gridnik W03 Regular/Foundry Gridnik W03 Regular.eot');
+    src: url('./Foundry Gridnik W03 Regular/Foundry Gridnik W03 Regular.eot#iefix') format('embedded-opentype'),
+         url('./Foundry Gridnik W03 Regular/Foundry Gridnik W03 Regular.woff') format('woff'),
+         url('./Foundry Gridnik W03 Regular/Foundry Gridnik W03 Regular.ttf') format('truetype'),
+         url('./Foundry Gridnik W03 Regular/Foundry Gridnik W03 Regular.svg#FoundryGridnikRegular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: 'TradeGothicLTStdBdCnNo.20';
-    src: url('https://web.archive.org/web/20140518231916im_/http://cooperunion.biz/_/tradegothicltstd-bdcn20-webfont.eot');
-    src: url('https://web.archive.org/web/20140518231916im_/http://cooperunion.biz/_/tradegothicltstd-bdcn20-webfont.eot#iefix') format('embedded-opentype'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooperunion.biz/_/tradegothicltstd-bdcn20-webfont.woff') format('woff'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooperunion.biz/_/tradegothicltstd-bdcn20-webfont.ttf') format('truetype'),
-         url('https://web.archive.org/web/20140518231916im_/http://cooperunion.biz/_/tradegothicltstd-bdcn20-webfont.svg#TradeGothicLTStdBdCnNo.20') format('svg');
+    src: url('./Trade Gothic Next W02 Cm/Trade Gothic Next W02 Cm.eot');
+    src: url('./Trade Gothic Next W02 Cm/Trade Gothic Next W02 Cm.eot#iefix') format('embedded-opentype'),
+         url('./Trade Gothic Next W02 Cm/Trade Gothic Next W02 Cm.woff') format('woff'),
+         url('./Trade Gothic Next W02 Cm/Trade Gothic Next W02 Cm.ttf') format('truetype'),
+         url('./Trade Gothic Next W02 Cm/Trade Gothic Next W02 Cm.svg#TradeGothicLTStdBdCnNo.20') format('svg');
     font-weight: normal;
     font-style: normal;
 
